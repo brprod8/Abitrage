@@ -82,9 +82,7 @@ JUPYTER LAB [click here](https://jupyterlab.readthedocs.io/en/stable/getting_sta
    
    [click here](https://github.com/brprod8/Abitrage.git) for zip file
 
-   [click here](git@github.com:brprod8/Abitrage.git) for to clone 
-
-   [Click here](https://github.com/brprod8/Abitrage) to visit  GITHUB 
+   [Click here](https://github.com/brprod8/Abitrage) to visit  GITHUB for CLONE
 ## LICENSE
 **Open to Experiment**
 
