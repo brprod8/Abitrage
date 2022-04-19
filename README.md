@@ -8,7 +8,9 @@ The Bitcoin markets from 2015 and Present attracts plenty of attention from arbi
 ## ARBITRAGE 
 ---
 ![](pics/overlay.png)
-STEP 1 - Get data from `lower` price exchange and `higher` price exchanage 
+
+STEP 1 - Get  `lower` price exchange and `higher` price exchanage 
+
 >👨🏿‍⚖️`Data` need to be clean ready to **Measure**
 
 *Measure the Arbitrage Spread* - `GET SUMMARY`
