@@ -7,21 +7,20 @@ The Bitcoin markets from 2015 and Present attracts plenty of attention from arbi
 
 ## ARBITRAGE 
 ---
-![](pics/overlay.png)
+![pic](pics/overlay.png)
 
 STEP 1 - Get  `lower` price exchange and `higher` price exchanage 
 
 >👨🏿‍⚖️`Data` need to be clean ready to **Measure**
 
 *Measure the Arbitrage Spread* - `GET SUMMARY`
-    ![](pics/spread summary.png)
+    ![](pics/spread.png)
 
 >👨🏿‍⚖️This is  `bitstamp/coinbase` **closing price**  from JAN 16, 2018 
   
   * [Spread Amount](https://www.investopedia.com/terms/s/spread.asp#:~:text=In%20finance%2C%20a%20spread%20refers%20to%20the%20difference,%28from%20sellers%29%20prices%20of%20a%20security%20or%20asset) Coinbase - Bitstamp    
   >👨🏿‍⚖️`Spread Amount` I want to know percentage amount and want a  `Summary` of that
-
-![](pics/summary.png)
+    ![](pics/spreadsummary.png)
 
 Step 2 - Calculate Trading Cost
 
@@ -103,5 +102,6 @@ EMAIL - Brprod8@gmail.com for Colloboration
 The Bitcoin arbitrage algorithms were just the tip of the iceberg. Today, fintech trading firms have developed programs that scour markets worldwide—in cryptocurrency and elsewhere—searching for any sizable arbitrage situations. The programs then immediately carry them out. Arbitrage opportunities exist in foreign exchange (currency) markets, derivative markets like options and futures, stocks, and bonds. These types of profits aren’t usually as extreme as those once observed for Bitcoin, but they do still arise.
 Because of the scale of technological involvement, when arbitrage opportunities do arise, algorithms almost immediately trade them out of existence. The algorithms record the profits and continue searching for the next trade. It’s a dynamic and competitive aspect of the fintech industry, which has received significant attention. This is why when doing arbitrage yourself, you need to rely on writing code that quickly and automatically performs trades.
 
->👨🏿‍⚖️With the help of Python performing  quick automation is made easy
+>👨🏿‍⚖️With the help of Python and its libraries can make performing quick automation made easy
+
 
