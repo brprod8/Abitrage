@@ -42,7 +42,6 @@ Step 2 - Calculate Trading Cost
 
 STEP 3 - CALCULATE 
   
- After Commission
  
  >👨🏿‍⚖️Commission = Transaction fee 0.5% for buying 0.5 % for selling 
    *  👨🏿‍⚖️$14,147.16 in dollars = profit before commission
