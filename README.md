@@ -48,11 +48,11 @@ STEP 3 - CALCULATE
    *  👨🏿‍⚖️$14,147.16 in dollars = profit before commission
 
    Profit after `Commisson `
-   ![](pics/profitafter.png)
+   ![](pics/profitbefore.png)
    * >👨🏿‍⚖️`After` commisson Take home price would = $5,678.49 **Before** commisson or if there was NO commisson take home price = $14,147.16 
   Profit Before `Commisson `
   
-   ![](pics/profitbefore.png)
+   ![](pics/profitafter.png)
   
   *We can visual see profits accumulated at a consistent pace BEFORE COMMISSION*  
   ![](pics/cumbeforecomis.png)
