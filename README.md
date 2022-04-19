@@ -14,7 +14,7 @@ STEP 1 - Get  `lower` price exchange and `higher` price exchanage
 >👨🏿‍⚖️`Data` need to be clean ready to **Measure**
 
 *Measure the Arbitrage Spread* - `GET SUMMARY`
-    ![](pics/spread%20summary.png)
+    ![](pics/spread summary.png)
 
 >👨🏿‍⚖️This is  `bitstamp/coinbase` **closing price**  from JAN 16, 2018 
   
