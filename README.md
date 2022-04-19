@@ -35,7 +35,9 @@ Step 2 - Calculate Trading Cost
    ![](pics/minsectrade.png)
 
    *Profits*
-  👨🏿‍⚖️ WE need to **convert** percentage back into dollars and get a `SUMMARY` of the trade that where over 0.1  
+  
+  >👨🏿‍⚖️ WE need to **convert** percentage back into dollars and get a `SUMMARY` of the trade that where over 0.1  
+  
   ![](pics/backtodollar.png)
  
  >👨🏿‍⚖️this is a summary of  trades that is `PROFIT`
